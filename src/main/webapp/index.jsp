@@ -3,5 +3,5 @@
 <body>
 <h2>Hello World!</h2>
 </body>
-    <a href="account/findAll">测试</a>
+    <a href="${pageContext.request.contextPath}/first/home">测试</a>
 </html>
